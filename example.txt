@@ -1,10 +1,1 @@
-Example text for git commit
-<<<<<<< HEAD
-<<<<<<< HEAD
-New
-=======
-New dsada
->>>>>>> 3093b1eaadcbc9295738bcefa679ab18c607d28e
-=======
-New
->>>>>>> f14883672f587195fdd9b9a2a85ac140b92755cb
+Example text for commit
