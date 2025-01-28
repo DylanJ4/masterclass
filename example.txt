@@ -1,2 +1,6 @@
 Example text for git commit
+<<<<<<< HEAD
 New
+=======
+New dsada
+>>>>>>> 3093b1eaadcbc9295738bcefa679ab18c607d28e
