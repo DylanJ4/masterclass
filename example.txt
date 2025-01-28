@@ -1,2 +1,2 @@
 Example text for git commit
-New dsada
+New
